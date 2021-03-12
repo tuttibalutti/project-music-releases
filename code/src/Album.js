@@ -1,5 +1,5 @@
 import React from 'react'
-import { Artist } from './Artist'
+//import { Artist } from './Artist'
 
 const Album = (props) => {  //for albumArt: style={{ backgroundImage: `url(${props.image})` }}
     return (
